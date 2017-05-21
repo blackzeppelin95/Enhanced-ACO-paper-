@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------
+                          FOMCON toolbox for MATLAB
+                        Version 1.21b  (R-2016-04-19)
+--------------------------------------------------------------------------------
+Copyright (c) 2012-2016, Aleksei Tepljakov, Tallinn University of Technology
+All rights reserved.
+
+Bug fixes
+
+  * Fixed impulse response computation for FOTF-s using impulse() function.
+
+ PLEASE REPORT ANY BUGS YOU MAY ENCOUNTER WHILE USING THE TOOLBOX BY VISITING
+ THE FOLLOWING WEBSITE:
+                            http://bugs.fomcon.net/
+							
+ YOUR CONTRIBUTION TO THE DEVELOPMENT OF THIS SOFTWARE IS GREATLY APPRECIATED!
