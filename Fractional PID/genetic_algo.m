@@ -1,7 +1,6 @@
 % x correction 
 %with mutation
 % keep the first 4 fittest values  and mate the rest
-tic
 clc,clear,close all
 iter=100;
 i=1;
@@ -160,7 +159,7 @@ plot(t,ones(size(t)));
 title('Step response with optimised controler');
 S = stepinfo(i,t,1)
 y1
-toc
+
   
   
   
